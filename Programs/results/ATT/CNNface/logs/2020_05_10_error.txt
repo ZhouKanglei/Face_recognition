@@ -1,0 +1,50 @@
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 210, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 201, in main
+    model_train(model, X_train, Y_train, X_vaild, Y_vaild)
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 171, in model_train
+    validation_data = (X_vaild, Y_vaild))
+  File "E:\Program Files\Python37\lib\site-packages\keras\legacy\interfaces.py", line 91, in wrapper
+    return func(*args, **kwargs)
+TypeError: fit_generator() got an unexpected keyword argument 'batch_size'
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 210, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 201, in main
+    model_train(model, X_train, Y_train, X_vaild, Y_vaild)
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 171, in model_train
+    validation_data = (X_vaild, Y_vaild))
+  File "E:\Program Files\Python37\lib\site-packages\keras\legacy\interfaces.py", line 91, in wrapper
+    return func(*args, **kwargs)
+TypeError: fit_generator() got an unexpected keyword argument 'batch_size'
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 209, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 200, in main
+    model_train(model, X_train, Y_train, X_vaild, Y_vaild)
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 170, in model_train
+    validation_data = (X_vaild, Y_vaild))
+  File "E:\Program Files\Python37\lib\site-packages\keras\legacy\interfaces.py", line 91, in wrapper
+    return func(*args, **kwargs)
+TypeError: fit_generator() got an unexpected keyword argument 'setps_per_epoch'
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 214, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 206, in main
+    print(H.history)
+NameError: name 'H' is not defined
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 213, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 205, in main
+    plot_acc_loss.main()
+NameError: name 'plot_acc_loss' is not defined
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 214, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 199, in main
+    X_train, Y_train, X_vaild, Y_vaild, X_test, Y_test = pre_processing()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\CNN\CNNface.py", line 77, in pre_processing
+    Y_train = train_label
+NameError: name 'train_label' is not defined

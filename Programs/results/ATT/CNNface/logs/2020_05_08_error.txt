@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\CNNface.py", line 136, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\CNNface.py", line 127, in main
+    X_train, Y_train, X_test, Y_test = pre_processing()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\CNNface.py", line 50, in pre_processing
+    dataset_path, num_train_img, nb_classes)
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\get_data_ATT.py", line 34, in load_data
+    train_data = np.empty(shape = (train_num, height, width), dtype='float64')
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\CNNface.py", line 152, in <module>
+    main()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\CNNface.py", line 144, in main
+    model = build_model()
+  File "E:\Code_Files\Python\Face_recognition\Face_recognition\Programs\CNNface.py", line 85, in build_model
+    model.add(Dropout(0.2))
+NameError: name 'Dropout' is not defined

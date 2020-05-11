@@ -1,0 +1,481 @@
+image: data/ATT\1\1.pgm
+result: correct
+
+image: data/ATT\1\6.pgm
+result: correct
+
+image: data/ATT\1\8.pgm
+result: correct
+
+image: data/ATT\1\10.pgm
+result: correct
+
+image: data/ATT\2\1.pgm
+result: correct
+
+image: data/ATT\2\2.pgm
+result: correct
+
+image: data/ATT\2\8.pgm
+result: correct
+
+image: data/ATT\2\9.pgm
+result: correct
+
+image: data/ATT\3\2.pgm
+result: correct
+
+image: data/ATT\3\6.pgm
+result: correct
+
+image: data/ATT\3\7.pgm
+result: correct
+
+image: data/ATT\3\9.pgm
+result: correct
+
+image: data/ATT\4\1.pgm
+result: correct
+
+image: data/ATT\4\2.pgm
+result: correct
+
+image: data/ATT\4\5.pgm
+result: correct
+
+image: data/ATT\4\8.pgm
+result: correct
+
+image: data/ATT\5\2.pgm
+result: correct
+
+image: data/ATT\5\5.pgm
+result: correct
+
+image: data/ATT\5\9.pgm
+result: correct
+
+image: data/ATT\5\10.pgm
+result: wrong, got 18
+
+image: data/ATT\6\4.pgm
+result: correct
+
+image: data/ATT\6\6.pgm
+result: correct
+
+image: data/ATT\6\7.pgm
+result: correct
+
+image: data/ATT\6\9.pgm
+result: correct
+
+image: data/ATT\7\2.pgm
+result: correct
+
+image: data/ATT\7\5.pgm
+result: correct
+
+image: data/ATT\7\6.pgm
+result: correct
+
+image: data/ATT\7\10.pgm
+result: correct
+
+image: data/ATT\8\1.pgm
+result: correct
+
+image: data/ATT\8\2.pgm
+result: correct
+
+image: data/ATT\8\8.pgm
+result: correct
+
+image: data/ATT\8\9.pgm
+result: correct
+
+image: data/ATT\9\1.pgm
+result: correct
+
+image: data/ATT\9\3.pgm
+result: correct
+
+image: data/ATT\9\6.pgm
+result: correct
+
+image: data/ATT\9\10.pgm
+result: correct
+
+image: data/ATT\10\1.pgm
+result: correct
+
+image: data/ATT\10\2.pgm
+result: correct
+
+image: data/ATT\10\5.pgm
+result: correct
+
+image: data/ATT\10\8.pgm
+result: correct
+
+image: data/ATT\11\4.pgm
+result: wrong, got 19
+
+image: data/ATT\11\5.pgm
+result: wrong, got 19
+
+image: data/ATT\11\7.pgm
+result: correct
+
+image: data/ATT\11\8.pgm
+result: correct
+
+image: data/ATT\12\1.pgm
+result: correct
+
+image: data/ATT\12\7.pgm
+result: correct
+
+image: data/ATT\12\8.pgm
+result: correct
+
+image: data/ATT\12\10.pgm
+result: correct
+
+image: data/ATT\13\2.pgm
+result: correct
+
+image: data/ATT\13\4.pgm
+result: correct
+
+image: data/ATT\13\5.pgm
+result: correct
+
+image: data/ATT\13\8.pgm
+result: correct
+
+image: data/ATT\14\3.pgm
+result: correct
+
+image: data/ATT\14\5.pgm
+result: correct
+
+image: data/ATT\14\6.pgm
+result: correct
+
+image: data/ATT\14\8.pgm
+result: correct
+
+image: data/ATT\15\1.pgm
+result: correct
+
+image: data/ATT\15\3.pgm
+result: correct
+
+image: data/ATT\15\7.pgm
+result: correct
+
+image: data/ATT\15\9.pgm
+result: correct
+
+image: data/ATT\16\4.pgm
+result: correct
+
+image: data/ATT\16\6.pgm
+result: correct
+
+image: data/ATT\16\8.pgm
+result: correct
+
+image: data/ATT\16\9.pgm
+result: correct
+
+image: data/ATT\17\2.pgm
+result: correct
+
+image: data/ATT\17\5.pgm
+result: correct
+
+image: data/ATT\17\6.pgm
+result: correct
+
+image: data/ATT\17\10.pgm
+result: correct
+
+image: data/ATT\18\2.pgm
+result: correct
+
+image: data/ATT\18\3.pgm
+result: correct
+
+image: data/ATT\18\4.pgm
+result: correct
+
+image: data/ATT\18\6.pgm
+result: correct
+
+image: data/ATT\19\1.pgm
+result: correct
+
+image: data/ATT\19\4.pgm
+result: correct
+
+image: data/ATT\19\6.pgm
+result: correct
+
+image: data/ATT\19\10.pgm
+result: correct
+
+image: data/ATT\20\3.pgm
+result: correct
+
+image: data/ATT\20\4.pgm
+result: wrong, got 29
+
+image: data/ATT\20\6.pgm
+result: wrong, got 29
+
+image: data/ATT\20\9.pgm
+result: correct
+
+image: data/ATT\21\1.pgm
+result: correct
+
+image: data/ATT\21\5.pgm
+result: correct
+
+image: data/ATT\21\7.pgm
+result: correct
+
+image: data/ATT\21\9.pgm
+result: correct
+
+image: data/ATT\22\1.pgm
+result: correct
+
+image: data/ATT\22\4.pgm
+result: correct
+
+image: data/ATT\22\5.pgm
+result: correct
+
+image: data/ATT\22\6.pgm
+result: correct
+
+image: data/ATT\23\1.pgm
+result: wrong, got 38
+
+image: data/ATT\23\4.pgm
+result: correct
+
+image: data/ATT\23\9.pgm
+result: correct
+
+image: data/ATT\23\10.pgm
+result: wrong, got 38
+
+image: data/ATT\24\2.pgm
+result: correct
+
+image: data/ATT\24\6.pgm
+result: correct
+
+image: data/ATT\24\7.pgm
+result: correct
+
+image: data/ATT\24\10.pgm
+result: correct
+
+image: data/ATT\25\2.pgm
+result: correct
+
+image: data/ATT\25\4.pgm
+result: correct
+
+image: data/ATT\25\6.pgm
+result: correct
+
+image: data/ATT\25\8.pgm
+result: correct
+
+image: data/ATT\26\3.pgm
+result: correct
+
+image: data/ATT\26\5.pgm
+result: correct
+
+image: data/ATT\26\7.pgm
+result: correct
+
+image: data/ATT\26\9.pgm
+result: correct
+
+image: data/ATT\27\3.pgm
+result: correct
+
+image: data/ATT\27\4.pgm
+result: correct
+
+image: data/ATT\27\7.pgm
+result: correct
+
+image: data/ATT\27\9.pgm
+result: correct
+
+image: data/ATT\28\3.pgm
+result: correct
+
+image: data/ATT\28\6.pgm
+result: correct
+
+image: data/ATT\28\9.pgm
+result: correct
+
+image: data/ATT\28\10.pgm
+result: correct
+
+image: data/ATT\29\1.pgm
+result: correct
+
+image: data/ATT\29\2.pgm
+result: correct
+
+image: data/ATT\29\6.pgm
+result: correct
+
+image: data/ATT\29\10.pgm
+result: correct
+
+image: data/ATT\30\2.pgm
+result: correct
+
+image: data/ATT\30\4.pgm
+result: correct
+
+image: data/ATT\30\9.pgm
+result: correct
+
+image: data/ATT\30\10.pgm
+result: correct
+
+image: data/ATT\31\1.pgm
+result: correct
+
+image: data/ATT\31\5.pgm
+result: correct
+
+image: data/ATT\31\7.pgm
+result: wrong, got 21
+
+image: data/ATT\31\9.pgm
+result: correct
+
+image: data/ATT\32\2.pgm
+result: correct
+
+image: data/ATT\32\6.pgm
+result: correct
+
+image: data/ATT\32\8.pgm
+result: correct
+
+image: data/ATT\32\9.pgm
+result: correct
+
+image: data/ATT\33\3.pgm
+result: correct
+
+image: data/ATT\33\5.pgm
+result: correct
+
+image: data/ATT\33\9.pgm
+result: correct
+
+image: data/ATT\33\10.pgm
+result: correct
+
+image: data/ATT\34\4.pgm
+result: correct
+
+image: data/ATT\34\5.pgm
+result: correct
+
+image: data/ATT\34\6.pgm
+result: correct
+
+image: data/ATT\34\7.pgm
+result: correct
+
+image: data/ATT\35\1.pgm
+result: wrong, got 40
+
+image: data/ATT\35\2.pgm
+result: correct
+
+image: data/ATT\35\6.pgm
+result: correct
+
+image: data/ATT\35\8.pgm
+result: correct
+
+image: data/ATT\36\5.pgm
+result: correct
+
+image: data/ATT\36\6.pgm
+result: correct
+
+image: data/ATT\36\7.pgm
+result: correct
+
+image: data/ATT\36\8.pgm
+result: correct
+
+image: data/ATT\37\2.pgm
+result: correct
+
+image: data/ATT\37\4.pgm
+result: correct
+
+image: data/ATT\37\8.pgm
+result: correct
+
+image: data/ATT\37\10.pgm
+result: correct
+
+image: data/ATT\38\3.pgm
+result: correct
+
+image: data/ATT\38\4.pgm
+result: correct
+
+image: data/ATT\38\6.pgm
+result: correct
+
+image: data/ATT\38\7.pgm
+result: correct
+
+image: data/ATT\39\2.pgm
+result: correct
+
+image: data/ATT\39\5.pgm
+result: correct
+
+image: data/ATT\39\9.pgm
+result: correct
+
+image: data/ATT\39\10.pgm
+result: correct
+
+image: data/ATT\40\1.pgm
+result: correct
+
+image: data/ATT\40\2.pgm
+result: correct
+
+image: data/ATT\40\5.pgm
+result: correct
+
+image: data/ATT\40\10.pgm
+result: correct
+
+Correct: 94.3750
