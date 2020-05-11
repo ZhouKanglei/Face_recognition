@@ -6,4 +6,4 @@
 
 ## 实验结果
 
-见[PDF文件](./programs/results/result.pdf)
+见[PDF文件](./Programs/results/result.pdf)
